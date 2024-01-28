@@ -1,5 +1,5 @@
 {
-    "name": "bdexpress-enforcer-core",
+    "name": "bdexpress-node-core",
     "version": "1.0.0",
     "description": "PerimeterX NodeJS shared core customized for BD Express",
     "main": "index.js",
@@ -14,9 +14,9 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/PerimeterX/bdexpress-enforcer-core.git"
+        "url": "git+https://github.com/PerimeterX/bdexpress-node-core.git"
     },
-    "author": "Johnny Tordgeman",
+    "author": "Asaf Akler",
     "license": "ISC",
     "dependencies": {
         "agent-phin": "^1.0.4",
