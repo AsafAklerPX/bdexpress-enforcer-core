@@ -6,7 +6,7 @@
 [PerimeterX](http://www.perimeterx.com) Shared base for NodeJS enforcers
 =============================================================
 
-> Latest stable version: [v1.1.0](https://www.npmjs.com/package/bdexpress-node-core)
+> Latest stable version: [v1.1.1](https://www.npmjs.com/package/bdexpress-node-core)
 
 This is a shared base implementation of PerimeterX node-core design to support remote configuration for BD express.
 
